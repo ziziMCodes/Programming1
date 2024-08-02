@@ -1,7 +1,7 @@
 ## **ECS Sim Coursework**
 ACHIEVED: 97%
 ## **Overview**
-This repository contains my implementation of the ECS Sim coursework project. The objective of the project was to create a virtual representation of a university, named "EcsSim". The simulation includes various facilities and staff contributing to the growth and success of the university.
+This repository contains my implementation of the ECS Sim coursework project, which is my first ever coursework. The objective of the project was to create a virtual representation of a university, named "EcsSim". The simulation includes various facilities and staff contributing to the growth and success of the university.
 
 ## **Coursework Objectives** 
 The key objectives of this coursework were to:
